@@ -72,3 +72,7 @@ Amir EL HADRI
 ## License
 
 Ce projet est un exercice pratique personnel et n'est pas destiné à une utilisation commerciale.
+
+## Lien URL du site web
+
+https://zesty-crepe-77df8e.netlify.app/
